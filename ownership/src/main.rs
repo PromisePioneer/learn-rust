@@ -1,4 +1,3 @@
-
 /*
 fn main() {
     // stack vs heap
@@ -130,11 +129,6 @@ fn make_copy(some_integer: i32) { // some_integer comes out to the scoop
  */
 
 
-
-
-
-
-
 // returning value and scope.
 
 fn main() {
@@ -143,8 +137,6 @@ fn main() {
     let s2 = String::from("Hello"); // s2 comes into scope
 
     let s3 = takes_and_gives_back(s2); // s2 moved into takes_and_gives_back function and the return value will move to s3.
-
-
 } // s3 is goes out of scope. s2 moved and nothing happens, s1 goes out of scope so its freed the memory.
 
 
@@ -155,6 +147,6 @@ fn gives_ownership() -> String { // gives_ownership will move its value its retu
 }
 
 
-fn takes_and_gives_back(a_string: String ) -> String { // a_string comes into scope
+fn takes_and_gives_back(a_string: String) -> String { // a_string comes into scope
     a_string // a string is return and moves out the calling function
 }
