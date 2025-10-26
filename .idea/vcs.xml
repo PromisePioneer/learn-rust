@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control_flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/convert_temperature" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/create_user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_types" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/enums" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hash_map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashmap_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/if_let_and_let_else" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/match_control_flow_construct" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/method_syntax" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-project-crates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nth_fibbonacci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pig_latin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/references" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restaurant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string_collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_program" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/structs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tuple_struct" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vectors" vcs="Git" />
+  </component>
+</project>

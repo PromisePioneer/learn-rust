@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/hello-world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/control_flow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/convert_temperature/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nth_fibbonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_program/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuple_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/method_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/match_control_flow_construct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my-project-crates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_collections/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/create_user/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hash_map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hashmap_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pig_latin/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/control_flow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/convert_temperature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/data_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nth_fibbonacci/target" />
+      <excludeFolder url="file://$MODULE_DIR$/slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_program/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tuple_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/method_syntax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/match_control_flow_construct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/my-project-crates/target" />
+      <excludeFolder url="file://$MODULE_DIR$/restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/string_collections/target" />
+      <excludeFolder url="file://$MODULE_DIR$/vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/create_user/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hash_map/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hashmap_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pig_latin/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
