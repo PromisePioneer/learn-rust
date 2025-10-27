@@ -23,6 +23,10 @@
       <sourceFolder url="file://$MODULE_DIR$/hash_map/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hashmap_test/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pig_latin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error_handling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic_data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/traits/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
@@ -44,6 +48,10 @@
       <excludeFolder url="file://$MODULE_DIR$/hash_map/target" />
       <excludeFolder url="file://$MODULE_DIR$/hashmap_test/target" />
       <excludeFolder url="file://$MODULE_DIR$/pig_latin/target" />
+      <excludeFolder url="file://$MODULE_DIR$/error_handling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generic_data_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generic_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/traits/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
